@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/RoutingFirstApp/static/css/main.6db37dc5.css",
-    "main.js": "/RoutingFirstApp/static/js/main.fd80f7f1.js",
+    "main.js": "/RoutingFirstApp/static/js/main.b27d148f.js",
     "index.html": "/RoutingFirstApp/index.html",
     "main.6db37dc5.css.map": "/RoutingFirstApp/static/css/main.6db37dc5.css.map",
-    "main.fd80f7f1.js.map": "/RoutingFirstApp/static/js/main.fd80f7f1.js.map"
+    "main.b27d148f.js.map": "/RoutingFirstApp/static/js/main.b27d148f.js.map"
   },
   "entrypoints": [
     "static/css/main.6db37dc5.css",
-    "static/js/main.fd80f7f1.js"
+    "static/js/main.b27d148f.js"
   ]
 }
