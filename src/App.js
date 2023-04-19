@@ -51,7 +51,7 @@ function App() {
       >
         <Navbar />
         <Routes>
-          <Route path="/" exact element={<Home />} />
+          <Route path="/RoutingFirstApp" exact element={<Home />} />
           <Route path="/product" exact element={<Product />} />
           <Route path="/addToCard" exact element={<AddToCard />} />
         </Routes>
